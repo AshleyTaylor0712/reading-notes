@@ -2,7 +2,7 @@
 
 Himy name is Ashley and ....
 
-Link to my github porfolio: https://github.com/AshleyTaylor0712
+Link to my github porfolio: [my github portfolio](https://github.com/AshleyTaylor0712)
 
 What growthmidset means to me is....
 
