@@ -65,7 +65,9 @@ Example:
 ### Images
 
 - Add images using this format:
-  - ! [ **Text Displayed** ]( *link to image* )
+  - ! ([) **Text Displayed** (]) ( *link to image* )
+
+**NOTE: No spaces**
 
 ### Links
 
