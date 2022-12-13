@@ -7,6 +7,8 @@
  - Allows you to showcase your work & resume
  - No HTML use required
 
+## Markdown
+
 ### Headings:
 
 - (#) Controls heading size
