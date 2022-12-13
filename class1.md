@@ -65,14 +65,14 @@ Example:
 ### Images
 
 - Add images using this format:
-  - ![**Text Displayed**](*link to image*)
+  - ! [ **Text Displayed** ]( *link to image* )
 
 ### Links
 
 - Add links using this format:
-  - [**Text Displayed**](*link to image*)
+  - [ **Text Displayed** ] ( *link to image* )
 - Link titles can be added by encloseding in ("") after url
-  - Example: [**Text Displayed**](*link to image*"link title")
+  - Example: [ **Text Displayed** ] ( *link to image* "link title" )
 
 ### Emojis
 
