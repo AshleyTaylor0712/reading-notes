@@ -1,6 +1,12 @@
 
 # Class 01 Reading assignment
 
+## GitHub
+ - Fast way to create websites
+ - No databases or servers required
+ - Allows you to showcase your work & resume
+ - No HTML use required
+
 ### Headings:
 
 - (#) Controls heading size
@@ -66,16 +72,16 @@ Example:
 - Link titles can be added by encloseding in ("") after url
   - Example: [**Text Displayed**](*link to image*"link title")
 
-  
-  
+### Emojis
 
+- Typing ":" will bring up a list of emojis that can be used
 
+### Footnotes
 
-
-
+- Add a footnote by adding a ([^1])
 
 ##### Things I want to know more about:
 - Code Blocks.  I'm confused on how to get this to render correctly.
 - Annotating Code via (') & ('')
 - Formatting Links (this portion of the reading contained a lot of info)
-- item
+- Quoting Code.
