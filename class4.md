@@ -40,8 +40,8 @@ The *meaning* of a piece of code
 
 - H1 is an example of a semantic element
 - Semantics elements in HTML should be applied according to text value as opposed to style.
-
-> CSS will be used to style text.
+  - CSS will be used to style text.
+  - 
 
 
 
