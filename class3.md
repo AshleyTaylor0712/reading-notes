@@ -35,6 +35,11 @@ Stores changes made to files via versions.
 
 **Saving Data**
 
+- Every time chages are made to files via commit a snapshot is created for reference.
+- Tracking changes minimizes the risk for lost files.
+
+
+
 
 
 
