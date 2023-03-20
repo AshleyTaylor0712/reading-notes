@@ -11,4 +11,4 @@ Growth mindset to me in is the concept that everyone is capaable of learning des
 2. Frustration is part of the process 
 3. ksjdfkj
 
-Link to my Github Portfolio: https://github.com/AshleyTaylor0712
+[Link to my Github Portfolio:](https://github.com/AshleyTaylor0712)
