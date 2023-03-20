@@ -25,3 +25,7 @@ Markdown syntax can be added to modify text formatting elements within a page. T
 >`clear formating:` \'clear formatting'
 >
 >\# Clear Formatting: \clear formatting 
+
+*Other Notes:* 
+
+- Be sure to put one blank line at the end of the page
