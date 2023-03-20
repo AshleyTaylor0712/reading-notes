@@ -12,3 +12,5 @@ My name is Ashley Taylor and I'm excited and motivated to begin my coding journe
 3. Hard work and dedication are more valuable than natural ability.
 
 [Link to my Github Portfolio](https://github.com/AshleyTaylor0712)
+
+[markdown notes](./markdown-notes.md)
