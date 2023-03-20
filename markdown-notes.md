@@ -18,8 +18,15 @@ Markdown syntax can be added to modify text formatting elements within a page. T
 > 
 > ~Strikethrough:~ \~Strikethrough:~
 
+### Unordered Lists: 
+> - Item 1: \-Item 1
+> - Item 2: \+Item 2
+> - Item 3: \*Item 3
+> 
+> *note: choose one symbol for use when creating list*
+
 ### Links:
-> [Link to my Github Portfolio](https://github.com/AshleyTaylor0712) `
+> [Link to my Github Portfolio](https://github.com/AshleyTaylor0712) `[Link to my Github Portfolio](https://github.com/AshleyTaylor0712)`
 
 ### Remove Formatting Effects:
 >`clear formating:` \'clear formatting'
