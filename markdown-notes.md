@@ -1,3 +1,3 @@
-# Learning Markdown
+# Markdown Guide
 
 
