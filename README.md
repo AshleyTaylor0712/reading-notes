@@ -13,4 +13,6 @@ My name is Ashley Taylor and I'm excited and motivated to begin my coding journe
 
 [Link to my Github Portfolio](https://github.com/AshleyTaylor0712)
 
-[markdown notes](./markdown-notes.md)
+### Notes from 102:
+
+[Markdown Guide:](./markdown-notes.md)
