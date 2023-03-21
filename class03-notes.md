@@ -1,4 +1,4 @@
-# Git
+# Git Notes
 
 ## Differences between Git & GitHub
 
@@ -8,7 +8,7 @@
 
 **Version Control:**
 
-> Allows users to update and revist various versions of a file.
+> Allows users to update and revisit various versions of a file.
 >>**Local Version Control:** 
 - Personal Computer
 
