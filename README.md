@@ -15,4 +15,5 @@ My name is Ashley Taylor and I'm excited and motivated to begin my coding journe
 
 ### Notes from 102:
 
-[Markdown Guide:](./markdown-notes.md)
+- [Markdown Reference](./markdown-notes.md)
+- [Terminal Reference](./terminal-notes.md)
