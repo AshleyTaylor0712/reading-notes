@@ -3,7 +3,7 @@
 
 My name is Ashley Taylor and I'm excited and motivated to begin my coding journey at Code Fellows! This is my first serious attempt at learning code. I'm motivated to dedicate myself to the process for the duration of this experience in order to reach the end goal of launching a new career for myself.
 
-## Growth mindset to me in is the concept that everyone is capaable of learning despite differing levels of natural abilities.
+## Growth mindset to me in is the concept that everyone is capable of learning despite differing levels of natural abilities.
 
 **3 Reminders to Stay in a Growth Mindset:**
 
