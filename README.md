@@ -8,14 +8,14 @@ A collection of my notes taken while attending Code Fellows.
 
 ### Code 102 Reading Notes
 
-- [01 Markdown Reference](./markdown-notes.md)
-- [02 Terminal Reference](./terminal-notes.md)
-- [03 Git Reference](./class03-notes.md)
-- [04 HTML Reference](./class04-notes.md)
-- [05 CSS Notes](./class05-notes.md)
-- [06 Class Notes](./class06-notes.md)
-- [07 Class Notes](./class07-notes.md)
-- [08 Class Notes](./class08-notes.md)
+- [01 Markdown Reference](102/markdown-notes.md)
+- [02 Terminal Reference](102/terminal-notes.md)
+- [03 Git Reference](102/class03-notes.md)
+- [04 HTML Reference](102/class04-notes.md)
+- [05 CSS Notes](102/class05-notes.md)
+- [06 Class Notes](102/class06-notes.md)
+- [07 Class Notes](102/class07-notes.md)
+- [08 Class Notes](102/class08-notes.md)
 
 ### Code 201 Reading Notes
 
