@@ -12,7 +12,7 @@ A collection of my notes taken while attending Code Fellows.
 - [02 Terminal Reference](./terminal-notes.md)
 - [03 Git Reference](./class03-notes.md)
 - [04 HTML Reference](./class04-notes.md)
-- [05 Class Notes](./class05-notes.md)
+- [05 CSS Notes](./class05-notes.md)
 - [06 Class Notes](./class06-notes.md)
 - [07 Class Notes](./class07-notes.md)
 - [08 Class Notes](./class08-notes.md)
