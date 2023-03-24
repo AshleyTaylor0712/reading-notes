@@ -3,7 +3,8 @@
 ## Functions
 
 - Pieces of code that perform a specific functions/actions.
-- Can be called or executed multiple times throughout code
+- Can be called/executed/invoked multiple times throughout code
+- To call a function by using its name followed by parentheses "()". If the function takes any arguments, you can pass them inside the parentheses separated by commas.
 
 >Example:
 >
@@ -69,3 +70,4 @@ let b = 5;
 >c += 5; // equivalent to c = c + 5
 >
 >console.log(c); // 15
+
