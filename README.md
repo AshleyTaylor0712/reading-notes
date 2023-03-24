@@ -14,7 +14,7 @@ A collection of my notes taken while attending Code Fellows.
 - [04 HTML Reference](class102/class04-notes.md)
 - [05 CSS Notes](class102/class05-notes.md)
 - [06 JaveScript Basics](class102/class06-notes.md)
-- [07 Class Notes](class102/class07-notes.md)
+- [07 JavaScript Functions & Operations](class102/class07-notes.md)
 - [08 Class Notes](class102/class08-notes.md)
 
 ### Code 201 Reading Notes
