@@ -6,7 +6,7 @@ A collection of my notes taken while attending Code Fellows.
 
 [Link to my Github Portfolio](https://github.com/AshleyTaylor0712)
 
-### Code 102 Reading Notes
+### Code 102 Intro to Software Development
 
 - [01 Markdown Reference](class102/markdown-notes.md)
 - [02 Terminal Reference](class102/terminal-notes.md)
@@ -17,7 +17,7 @@ A collection of my notes taken while attending Code Fellows.
 - [07 JavaScript Functions & Operations](class102/class07-notes.md)
 - [08 Operators & Loops](class102/class08-notes.md)
 
-### Code 201 Reading Notes
+### Code 201 Foundations of Software Development
 
 - [01 Class Notes](class201/201-class1.md)
 - [02 Class Notes](class201/201-class2.md)
@@ -34,3 +34,11 @@ A collection of my notes taken while attending Code Fellows.
 - [13 Class Notes](class201/201-class13.md)
 - [14 Class Notes](class201/201-class14.md)
 - [15 Class Notes](class201/201-class15.md)
+
+### Code 301 Intermediate Software Development
+
+- Class Notes
+
+### Code 401 Advanced Software Development
+
+- Class Notes
