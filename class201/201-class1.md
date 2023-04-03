@@ -15,6 +15,15 @@
 - DNS: IP address book
 - HTTP: Gives a protocol in terms of communication in terms of languague for communicatipon between clients and servers
 
-## Website Planning
+## HTML
 
-- 
+- Comprised of elememnts
+- Breaks a document up into secctions. ex head, body, header, main, footer
+- Metadata is stored in the head. ex. title, links, keywords
+
+## Javascript
+
+- Used to add an interactive component to websites
+- Variables are used to store valuables
+- let declares a variable
+- ; is used to end a statement (only required when there are multiple statements on a line)
