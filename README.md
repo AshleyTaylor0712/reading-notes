@@ -37,7 +37,8 @@ A collection of my notes taken while attending Code Fellows.
 
 ### Code 301 Intermediate Software Development
 
-- Class Notes
+- [01 Class Notes](class301/301-class1.md)
+- [02 Class Notes](class301/301-class2.md)
 
 ### Code 401 Advanced Software Development
 
