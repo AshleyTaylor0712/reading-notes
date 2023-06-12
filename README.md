@@ -41,4 +41,20 @@ A collection of my notes taken while attending Code Fellows.
 
 ### Code 401 Advanced Software Development
 
-- Class Notes
+- [01 Class Notes](class401/readingnotes/401-1.md)
+- [02 Class Notes](class401/readingnotes/401-2.md)
+- [03 Class Notes](class401/readingnotes/401-3.md)
+- [04 Class Notes](class401/readingnotes/401-4.md)
+- [05 Class Notes](class401/readingnotes/401-5.md)
+- [06 Class Notes](class401/readingnotes/401-6.md)
+- [07 Class Notes](class401/readingnotes/401-7.md)
+- [08 Class Notes](class401/readingnotes/401-8.md)
+- [01 Class Notes](class401/readingnotes/401-1.md)
+v- [01 Class Notes](class401/readingnotes/401-1.md)
+- [01 Class Notes](class401/readingnotes/401-1.md)
+- [01 Class Notes](class401/readingnotes/401-1.md)
+- [01 Class Notes](class401/readingnotes/401-1.md)
+- [01 Class Notes](class401/readingnotes/401-1.md)
+- [01 Class Notes](class401/readingnotes/401-1.md)
+- [01 Class Notes](class401/readingnotes/401-1.md)
+- [01 Class Notes](class401/readingnotes/401-1.md)
